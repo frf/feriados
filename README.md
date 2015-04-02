@@ -28,6 +28,15 @@ As issues foram organizadas por labels, no seguinte processo:
 * __Dados incorretos__: Quando alguma data precisa ser corrigida, removida ou adicionada
 
 
+## Metas
+
+Algumas metas foram definidas, em ordem:
+
+* [Feriados Nacionais](https://github.com/dadosbr/feriados/milestones/Feriados%20Nacionais) - Tá fácil né?
+* [Feriados Estaduais](https://github.com/dadosbr/feriados/milestones/Feriados%20Estaduais) - Só 27, molezinha...
+* [Feriados Municipais](https://github.com/dadosbr/feriados/milestones/Feriados%20Municipais) - Atualmente são 5570 municípios, agora vai!
+
+
 ## Licença
 
 The MIT License (MIT)
